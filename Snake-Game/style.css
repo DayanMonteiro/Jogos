@@ -1,3 +1,14 @@
-* {
-    margin: 15px;
+body {
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:  column;
+    color: green;
+}
+
+.fonte {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
 }
