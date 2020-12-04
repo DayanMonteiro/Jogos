@@ -1,3 +1,5 @@
+
+
 body {
     height: 95vh;
     width: 95;
@@ -6,6 +8,7 @@ body {
     align-items: center;
     flex-direction:  column;
     color: green;
+    background-color: #CDC9C9;
 }
 
 .fonte {
