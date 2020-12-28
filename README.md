@@ -6,3 +6,5 @@ Aprendendo a criar jogos simples na minha jornada de aprendizagem de programa√ß√
 ![mesa](https://github.com/DayanMonteiro/Jogos/blob/main/mesa.jpg)
 
 2 - Snake game
+
+![snake-game](https://github.com/DayanMonteiro/Jogos/blob/main/snake-game.jpg)
