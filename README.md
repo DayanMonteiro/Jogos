@@ -13,3 +13,7 @@ Aprendendo a criar jogos simples na minha jornada de aprendizagem de programa√ß√
 ## 2 - Snake game
 
 ![snake-game](https://github.com/DayanMonteiro/Jogos/blob/main/snake-game.jpg)
+
+## 3 - Dino Game
+
+![dino](https://github.com/DayanMonteiro/Jogos/blob/main/dino-game.jpg)
