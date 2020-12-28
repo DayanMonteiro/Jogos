@@ -1,10 +1,10 @@
 # Jogos
 Aprendendo a criar jogos simples na minha jornada de aprendizagem de programação.
 
-1 - jogo de ping-pong
+# 1 - jogo de ping-pong
 
 ![mesa](https://github.com/DayanMonteiro/Jogos/blob/main/mesa.jpg)
 
-2 - Snake game
+# 2 - Snake game
 
 ![snake-game](https://github.com/DayanMonteiro/Jogos/blob/main/snake-game.jpg)
