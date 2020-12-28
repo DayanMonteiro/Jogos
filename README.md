@@ -1,6 +1,8 @@
 #  Aprendo Jogos para desenvolvimento de Javascript
 
+#### Técnologias utilizadas nos projetos
 
+![tecs](https://github.com/DayanMonteiro/Jogos/blob/main/tecs.jpg)
 
 Aprendendo a criar jogos simples na minha jornada de aprendizagem de programação.
 
